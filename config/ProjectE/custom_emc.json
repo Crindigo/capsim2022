@@ -1,0 +1,92 @@
+{
+  "entries": [
+    {
+      "item": "gregtech:meta_dust|271",
+      "emc": 0
+    },
+    {
+      "item": "gregtech:meta_ingot|75",
+      "emc": 0
+    },
+    {
+      "item": "gregtech:meta_ingot|116",
+      "emc": 0
+    },
+    {
+      "item": "OD|blockGlassHardened",
+      "emc": 0
+    },
+    {
+      "item": "OD|blockGlass",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sapling|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:sapling|1",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:sapling|2",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:sapling|3",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:sapling|4",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:sapling|5",
+      "emc": 32
+    },
+    {
+      "item": "gregtech:rubber_sapling|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:log|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:log|1",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:log|2",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:log|3",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:log2|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:log2|1",
+      "emc": 32
+    },
+    {
+      "item": "gregtech:rubber_log|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:wool|0",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:stained_hardened_clay|*",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:concrete|*",
+      "emc": 20
+    }
+  ]
+}
