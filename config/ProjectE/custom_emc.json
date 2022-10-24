@@ -87,6 +87,90 @@
     {
       "item": "minecraft:concrete|*",
       "emc": 20
+    },
+    {
+      "item": "tesseract:tesseract|0",
+      "emc": 100000
+    },
+    {
+      "item": "gregtech:meta_item_1|516",
+      "emc": 400
+    },
+    {
+      "item": "gregtech:ore_copper_0|0",
+      "emc": 256
+    },
+    {
+      "item": "gregtech:ore_chalcopyrite_0|0",
+      "emc": 256
+    },
+    {
+      "item": "gregtech:ore_tetrahedrite_0|0",
+      "emc": 256
+    },
+    {
+      "item": "gregtech:ore_bornite_0|0",
+      "emc": 256
+    },
+    {
+      "item": "gregtech:ore_chalcocite_0|0",
+      "emc": 256
+    },
+    {
+      "item": "gregtech:ore_malachite_0|0",
+      "emc": 256
+    },
+    {
+      "item": "gregtech:ore_cassiterite_0|0",
+      "emc": 512
+    },
+    {
+      "item": "gregtech:ore_cassiterite_sand_0|0",
+      "emc": 512
+    },
+    {
+      "item": "gregtech:ore_tin_0|0",
+      "emc": 256
+    },
+    {
+      "item": "gregtech:ore_iron_0|0",
+      "emc": 256
+    },
+    {
+      "item": "gregtech:ore_banded_iron_0|0",
+      "emc": 256
+    },
+    {
+      "item": "gregtech:ore_brown_limonite_0|0",
+      "emc": 256
+    },
+    {
+      "item": "gregtech:ore_magnetite_0|0",
+      "emc": 256
+    },
+    {
+      "item": "gregtech:ore_pyrite_0|0",
+      "emc": 256
+    },
+    {
+      "item": "gregtech:ore_yellow_limonite_0|0",
+      "emc": 256
+    },
+    {
+      "item": "gregtech:ore_granitic_mineral_sand_0|0",
+      "emc": 256
+    },
+    {
+      "item": "gregtech:ore_basaltic_mineral_sand_0|0",
+      "emc": 256
+    },
+    {
+      "item": "cookingforblockheads:sink|0",
+      "emc": 10000
+    },
+    {
+      "item": "chisel:limestone2|7",
+      "emc": 1
     }
   ]
 }

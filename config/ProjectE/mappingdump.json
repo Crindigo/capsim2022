@@ -6367,6 +6367,13 @@
         },
         {
           "count": 1,
+          "output": "tesseract:tesseract|*",
+          "ingredients": {
+            "tesseract:tesseract:0": 1
+          }
+        },
+        {
+          "count": 1,
           "output": "gregtech:ore_molybdenite_0|*",
           "ingredients": {
             "gregtech:ore_molybdenite_0:2": 1
@@ -15516,6 +15523,13 @@
         },
         {
           "count": 1,
+          "output": "cookingforblockheads:sink|*",
+          "ingredients": {
+            "cookingforblockheads:sink:0": 1
+          }
+        },
+        {
+          "count": 1,
           "output": "minecraft:glowstone_dust|*",
           "ingredients": {
             "minecraft:glowstone_dust:0": 1
@@ -17714,6 +17728,2911 @@
         },
         {
           "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:1000": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:1001": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:1002": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:832": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:833": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:834": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:835": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:776": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:777": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:778": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:780": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:781": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:782": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:783": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:821": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:822": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:823": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:824": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:825": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:826": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:827": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:828": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:829": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:830": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:831": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:704": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:705": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:708": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:709": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:710": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:711": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:717": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:718": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:719": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:720": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:721": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:722": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:723": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:724": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:731": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:732": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:733": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:734": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:735": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:736": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:737": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:738": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:739": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:740": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:741": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:742": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:743": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:744": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:745": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:746": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:747": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:748": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:749": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:750": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:751": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:752": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:753": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:640": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:641": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:642": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:643": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:644": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:645": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:646": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:647": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:701": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:702": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:703": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:576": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:577": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:578": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:579": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:580": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:581": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:591": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:592": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:593": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:594": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:595": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:596": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:597": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:598": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:599": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:600": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:601": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:602": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:603": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:604": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:605": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:606": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:621": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:622": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:623": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:624": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:625": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:626": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:627": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:628": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:629": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:630": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:631": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:632": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:633": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:634": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:635": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:636": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:637": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:638": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:639": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:516": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:517": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:518": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:519": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:520": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:521": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:522": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:523": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:524": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:525": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:526": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:527": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:528": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:529": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:530": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:531": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:532": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:566": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:567": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:568": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:569": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:570": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:571": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:572": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:573": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:574": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:575": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:448": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:449": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:450": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:460": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:461": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:462": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:463": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:464": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:465": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:466": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:467": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:468": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:469": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:470": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:471": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:472": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:491": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:492": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:497": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:498": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:499": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:500": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:501": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:502": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:503": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:504": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:384": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:385": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:386": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:387": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:401": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:402": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:403": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:404": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:405": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:406": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:407": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:421": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:422": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:423": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:424": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:425": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:426": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:427": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:428": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:429": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:430": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:431": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:432": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:433": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:434": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:435": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:436": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:438": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:439": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:440": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:446": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:447": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:330": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:331": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:332": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:333": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:334": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:335": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:336": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:347": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:348": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:350": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:351": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:352": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:353": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:361": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:362": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:363": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:364": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:371": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:372": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:373": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:374": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:381": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:382": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:383": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:261": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:262": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:266": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:267": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:281": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:282": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:283": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:290": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:291": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:292": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:293": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:301": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:302": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:303": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:304": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:305": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:306": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:307": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:308": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:309": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:310": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:311": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:312": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:313": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:314": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:315": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:316": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:317": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:192": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:193": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:194": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:202": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:203": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:204": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:205": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:206": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:207": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:208": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:209": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:217": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:218": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:219": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:220": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:221": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:222": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:223": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:224": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:232": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:233": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:234": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:235": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:236": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:237": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:238": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:239": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:247": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:248": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:249": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:250": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:251": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:252": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:253": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:254": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:128": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:129": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:130": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:131": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:132": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:133": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:134": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:142": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:143": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:144": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:145": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:146": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:147": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:148": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:149": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:157": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:158": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:159": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:160": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:161": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:162": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:163": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:164": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:172": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:173": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:174": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:175": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:176": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:177": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:178": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:179": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:187": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:188": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:189": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:190": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:191": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:64": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:65": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:66": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:67": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:68": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:69": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:70": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:71": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:72": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:73": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:74": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:75": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:76": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:77": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:78": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:79": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:80": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:81": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:82": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:83": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:84": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:85": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:89": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:90": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:91": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:92": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:93": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:96": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:97": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:98": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:99": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:100": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:101": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:102": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:103": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:104": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:127": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:2": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:3": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:4": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:5": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:6": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:8": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:9": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:10": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:11": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:12": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:13": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:14": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:15": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:16": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:17": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:18": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:19": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:20": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:21": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:22": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:23": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:24": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:31": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:32": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:33": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:34": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:35": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:36": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:37": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:38": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:39": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:40": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:41": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:42": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:43": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:44": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:45": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:46": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:47": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:48": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:49": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:50": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:51": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:52": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:53": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:54": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:55": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:56": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:57": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:60": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:61": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:62": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "gregtech:meta_item_1|*",
+          "ingredients": {
+            "gregtech:meta_item_1:63": 1
+          }
+        },
+        {
+          "count": 1,
           "output": "gregtech:ore_cobalt_0|*",
           "ingredients": {
             "gregtech:ore_cobalt_0:1": 1
@@ -17913,6 +20832,62 @@
           "output": "gregtech:ore_yellow_limonite_0|*",
           "ingredients": {
             "gregtech:ore_yellow_limonite_0:1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "chisel:limestone2|*",
+          "ingredients": {
+            "chisel:limestone2:3": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "chisel:limestone2|*",
+          "ingredients": {
+            "chisel:limestone2:2": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "chisel:limestone2|*",
+          "ingredients": {
+            "chisel:limestone2:1": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "chisel:limestone2|*",
+          "ingredients": {
+            "chisel:limestone2:0": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "chisel:limestone2|*",
+          "ingredients": {
+            "chisel:limestone2:7": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "chisel:limestone2|*",
+          "ingredients": {
+            "chisel:limestone2:6": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "chisel:limestone2|*",
+          "ingredients": {
+            "chisel:limestone2:5": 1
+          }
+        },
+        {
+          "count": 1,
+          "output": "chisel:limestone2|*",
+          "ingredients": {
+            "chisel:limestone2:4": 1
           }
         },
         {
@@ -21010,7 +23985,7 @@
       "gregtech:meta_dust:345": 0,
       "gregtech:ore_banded_iron_0:1": 0,
       "gregtech:meta_dust:344": 0,
-      "gregtech:ore_banded_iron_0:0": 0,
+      "gregtech:ore_banded_iron_0:0": 256,
       "gregtech:meta_dust:347": 0,
       "gregtech:ore_banded_iron_0:3": 0,
       "gregtech:meta_dust:346": 0,
@@ -21267,6 +24242,7 @@
       "gregtech:meta_dust_tiny:1015": 0,
       "gregtech:meta_dust_tiny:1012": 0,
       "gregtech:meta_dust_tiny:1013": 0,
+      "gregtech:meta_item_1:516": 400,
       "gregtech:rubber_log:0": 32,
       "gregtech:meta_dust:214": 0,
       "minecraft:spider_eye:0": 128,
@@ -21335,7 +24311,7 @@
       "gregtech:meta_dust_tiny:124": 0,
       "gregtech:ore_cassiterite_0:1": 0,
       "gregtech:meta_dust_tiny:125": 0,
-      "gregtech:ore_cassiterite_0:0": 0,
+      "gregtech:ore_cassiterite_0:0": 512,
       "gregtech:meta_dust_tiny:115": 0,
       "gregtech:meta_dust_tiny:112": 0,
       "gregtech:meta_dust_tiny:113": 0,
@@ -21389,7 +24365,7 @@
       "gregtech:meta_dust_tiny:20": 0,
       "gregtech:ore_opal_0:9": 0,
       "gregtech:ore_opal_0:8": 0,
-      "gregtech:ore_granitic_mineral_sand_0:0": 0,
+      "gregtech:ore_granitic_mineral_sand_0:0": 256,
       "gregtech:ore_granitic_mineral_sand_0:1": 0,
       "gregtech:ore_granitic_mineral_sand_0:2": 0,
       "gregtech:meta_dust_tiny:41": 0,
@@ -21790,7 +24766,7 @@
       "gregtech:meta_dust_tiny:426": 0,
       "gregtech:ore_basaltic_mineral_sand_0:1": 0,
       "gregtech:meta_dust_tiny:427": 0,
-      "gregtech:ore_basaltic_mineral_sand_0:0": 0,
+      "gregtech:ore_basaltic_mineral_sand_0:0": 256,
       "gregtech:meta_dust_tiny:424": 0,
       "gregtech:ore_basaltic_mineral_sand_0:3": 0,
       "gregtech:meta_dust_tiny:425": 0,
@@ -22485,7 +25461,7 @@
       "gregtech:ore_tin_0:7": 0,
       "gregtech:ore_tin_0:6": 0,
       "gregtech:ore_tin_0:1": 0,
-      "gregtech:ore_tin_0:0": 0,
+      "gregtech:ore_tin_0:0": 256,
       "gregtech:ore_tin_0:3": 0,
       "gregtech:ore_tin_0:2": 0,
       "gregtech:ore_tin_0:9": 0,
@@ -22522,6 +25498,7 @@
       "gregtech:ore_cobalt_0:8": 0,
       "gregtech:ore_cobalt_0:11": 0,
       "gregtech:ore_cobalt_0:10": 0,
+      "chisel:limestone2:7": 1,
       "gregtech:ore_tungstate_0:9": 0,
       "gregtech:ore_tungstate_0:8": 0,
       "gregtech:ore_tungstate_0:11": 0,
@@ -22627,7 +25604,7 @@
       "gregtech:ore_scheelite_0:11": 0,
       "gregtech:ore_scheelite_0:8": 0,
       "gregtech:ore_scheelite_0:9": 0,
-      "gregtech:ore_brown_limonite_0:0": 0,
+      "gregtech:ore_brown_limonite_0:0": 256,
       "gregtech:ore_brown_limonite_0:1": 0,
       "gregtech:ore_brown_limonite_0:2": 0,
       "gregtech:ore_brown_limonite_0:3": 0,
@@ -22704,7 +25681,7 @@
       "gregtech:ore_diamond_0:3": 0,
       "gregtech:ore_yellow_limonite_0:3": 0,
       "gregtech:ore_diamond_0:0": 0,
-      "gregtech:ore_yellow_limonite_0:0": 0,
+      "gregtech:ore_yellow_limonite_0:0": 256,
       "gregtech:ore_diamond_0:1": 0,
       "gregtech:ore_yellow_limonite_0:1": 0,
       "gregtech:ore_diamond_0:10": 0,
@@ -22730,7 +25707,7 @@
       "gregtech:meta_dust_tiny:3005": 0,
       "gregtech:ore_chalcopyrite_0:2": 0,
       "gregtech:ore_chalcopyrite_0:3": 0,
-      "gregtech:ore_chalcopyrite_0:0": 0,
+      "gregtech:ore_chalcopyrite_0:0": 256,
       "gregtech:ore_chalcopyrite_0:1": 0,
       "gregtech:ore_chalcopyrite_0:6": 0,
       "gregtech:ore_chalcopyrite_0:7": 0,
@@ -22943,7 +25920,7 @@
       "gregtech:ore_magnetite_0:2": 0,
       "gregtech:ore_magnetite_0:1": 0,
       "minecraft:shulker_shell:0": 2048,
-      "gregtech:ore_magnetite_0:0": 0,
+      "gregtech:ore_magnetite_0:0": 256,
       "gregtech:meta_crushed_centrifuged:293": 0,
       "gregtech:meta_crushed_centrifuged:292": 0,
       "gregtech:meta_crushed:25": 0,
@@ -22966,7 +25943,7 @@
       "gregtech:meta_crushed_centrifuged:314": 0,
       "gregtech:meta_crushed_centrifuged:261": 0,
       "gregtech:ore_tetrahedrite_0:1": 0,
-      "gregtech:ore_tetrahedrite_0:0": 0,
+      "gregtech:ore_tetrahedrite_0:0": 256,
       "gregtech:meta_crushed_centrifuged:263": 0,
       "gregtech:ore_tetrahedrite_0:3": 0,
       "gregtech:meta_crushed_centrifuged:262": 0,
@@ -22988,12 +25965,13 @@
       "gregtech:meta_crushed_centrifuged:264": 0,
       "gregtech:meta_crushed:51": 0,
       "gregtech:meta_crushed_centrifuged:267": 0,
+      "cookingforblockheads:sink:0": 10000,
       "gregtech:ore_copper_0:3": 0,
       "gregtech:meta_crushed_centrifuged:276": 0,
       "gregtech:ore_copper_0:2": 0,
       "gregtech:meta_crushed_centrifuged:279": 0,
       "gregtech:ore_copper_0:1": 0,
-      "gregtech:ore_copper_0:0": 0,
+      "gregtech:ore_copper_0:0": 256,
       "gregtech:meta_crushed_centrifuged:278": 0,
       "minecraft:snow:0": 1,
       "gregtech:meta_crushed:41": 0,
@@ -23197,12 +26175,12 @@
       "gregtech:ore_bornite_0:7": 0,
       "gregtech:meta_crushed_purified:286": 0,
       "gregtech:ore_pyrite_0:2": 0,
-      "gregtech:ore_bornite_0:0": 0,
+      "gregtech:ore_bornite_0:0": 256,
       "gregtech:ore_pyrite_0:3": 0,
       "gregtech:ore_bornite_0:1": 0,
       "gregtech:meta_dust_impure:80": 0,
       "gregtech:meta_crushed_purified:284": 0,
-      "gregtech:ore_pyrite_0:0": 0,
+      "gregtech:ore_pyrite_0:0": 256,
       "gregtech:ore_bornite_0:2": 0,
       "gregtech:meta_dust_impure:81": 0,
       "gregtech:ore_pyrite_0:1": 0,
@@ -23301,7 +26279,7 @@
       "gregtech:ore_salt_0:11": 0,
       "gregtech:meta_crushed_purified:348": 0,
       "gregtech:ore_iron_0:1": 0,
-      "gregtech:ore_iron_0:0": 0,
+      "gregtech:ore_iron_0:0": 256,
       "gregtech:ore_iron_0:3": 0,
       "gregtech:ore_iron_0:2": 0,
       "gregtech:ore_iron_0:5": 0,
@@ -23339,13 +26317,14 @@
       "gregtech:ore_chalcocite_0:1": 0,
       "gregtech:meta_dust_impure:51": 0,
       "gregtech:ore_almandine_0:0": 0,
-      "gregtech:ore_chalcocite_0:0": 0,
+      "gregtech:ore_chalcocite_0:0": 256,
       "gregtech:meta_crushed_purified:380": 0,
       "gregtech:ore_almandine_0:3": 0,
       "gregtech:ore_chalcocite_0:3": 0,
       "gregtech:meta_crushed_purified:381": 0,
       "gregtech:ore_almandine_0:2": 0,
       "gregtech:ore_chalcocite_0:2": 0,
+      "tesseract:tesseract:0": 100000,
       "gregtech:meta_crushed_purified:386": 0,
       "gregtech:meta_crushed_purified:387": 0,
       "gregtech:meta_crushed_purified:384": 0,
@@ -23695,7 +26674,7 @@
       "gregtech:ore_malachite_0:2": 0,
       "gregtech:ore_magnesite_0:9": 0,
       "gregtech:ore_malachite_0:3": 0,
-      "gregtech:ore_malachite_0:0": 0,
+      "gregtech:ore_malachite_0:0": 256,
       "gregtech:ore_magnesite_0:10": 0,
       "gregtech:ore_magnesite_0:11": 0,
       "gregtech:ore_malachite_0:1": 0,
@@ -23730,7 +26709,7 @@
       "gregtech:ore_cassiterite_sand_0:5": 0,
       "gregtech:ore_cassiterite_sand_0:2": 0,
       "gregtech:ore_cassiterite_sand_0:3": 0,
-      "gregtech:ore_cassiterite_sand_0:0": 0,
+      "gregtech:ore_cassiterite_sand_0:0": 512,
       "gregtech:ore_cassiterite_sand_0:1": 0,
       "gregtech:ore_cassiterite_sand_0:10": 0,
       "gregtech:ore_cassiterite_sand_0:11": 0,
